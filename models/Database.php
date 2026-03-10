@@ -1,7 +1,4 @@
 <?php
-// ============================================
-// models/Database.php - Clase Base
-// ============================================
 class BaseModel {
     protected $conn;
     protected $table;
